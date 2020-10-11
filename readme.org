@@ -1,0 +1,7 @@
+* Intro
+This repo is a offsite backup of my config files. I have made this public because I have learned a lot with configuring linux from others. at the moment its the same layout copied from my linux home directory. Files will be added and removed as it is needed.
+* Things configured here
+** Doom Emacs
+for the most part not really changed
+** AwesomeWM
+working on getting a basic sepperated config where items are in their on file like key bindings in one file and the function that run them in another.
